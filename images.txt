@@ -7,4 +7,7 @@
 #--platform=linux/amd64 lobehub/lobe-chat:1.66.4
 #--platform=linux/arm64 lobehub/lobe-chat:1.66.4
 
-6053537/portainer-ce:latest
+#6053537/portainer-ce:latest
+filebrowser/filebrowser:latest
+pgvector/pgvector:pg16
+lobehub/lobe-chat-database:latest
