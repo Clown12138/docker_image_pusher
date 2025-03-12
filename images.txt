@@ -8,5 +8,6 @@
 #--platform=linux/arm64 lobehub/lobe-chat:1.66.4
 
 #6053537/portainer-ce:latest
-pgvector/pgvector:pg16
+#pgvector/pgvector:pg16
 lobehub/lobe-chat-database:latest
+minio/minio:latest
