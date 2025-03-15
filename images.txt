@@ -9,7 +9,10 @@
 
 #6053537/portainer-ce:latest
 #pgvector/pgvector:pg16
-lobehub/lobe-chat-database:latest
-minio/minio:latest
-dpage/pgadmin4:latest
-casbin/casdoor:latest
+#lobehub/lobe-chat-database:latest
+#minio/minio:latest
+#dpage/pgadmin4:latest
+#casbin/casdoor:latest
+docker.io/library/postgres:16-alpine
+docker.io/library/redis:alpine
+ghcr.io/goauthentik/server:2025.2.1
