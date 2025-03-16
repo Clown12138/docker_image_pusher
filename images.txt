@@ -17,4 +17,4 @@
 #docker.io/library/redis:alpine
 #ghcr.io/goauthentik/server:2025.2.1
 #logtoio/logto:latest
-logtoio/logto:latest
+svhd/logto:latest
