@@ -16,4 +16,5 @@
 #docker.io/library/postgres:16-alpine
 #docker.io/library/redis:alpine
 #ghcr.io/goauthentik/server:2025.2.1
+#logtoio/logto:latest
 logtoio/logto:latest
